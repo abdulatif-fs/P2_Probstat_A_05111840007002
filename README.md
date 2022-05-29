@@ -4,15 +4,15 @@
 
 **1.a. Standar Deviasi dari data selisih pasangan pengamatan**
 
-![Getting Started](P2/1.a.PNG)
+![Getting Started](P2/1a.PNG)
 
 **1.b. nilai t (p-value)**
 
-![Getting Started](P2/1.b.PNG)
+![Getting Started](P2/1b.PNG)
 
 **1.c.**
 
-![Getting Started](P2/1.c.PNG)
+![Getting Started](P2/1c.PNG)
 
 H0 : “tidak ada pengaruh yang signifikan secara statistika dalam hal kadar saturasi oksigen, sebelum dan sesudah melakukan aktivitas 𝐴”
 
