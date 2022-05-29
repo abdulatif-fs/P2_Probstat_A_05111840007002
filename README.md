@@ -46,18 +46,21 @@ dengan nilai p-value dibawah 0.05, dapat diambil keputusan untuk menolak H0. dan
 H0 = tidak terdapat perbedaan pada rata-rata 2 perusahaan tersebut
 H1 = terdapat perbedaan pada rata-rata 2 perusahaan tersebut
 
-**3.c Uji Statistik**
+**3.b.c Sampel Statistik & Uji Statistik**
 
 ![Getting Started](P2/3c.PNG)
 
 
 **3.d Nilai Kritikal**
+
 dari hasil uji, didapatkan nilai t = 1.9267.
 
 **3.e Keputusan**
+
 dari nilai p-value yang lebih tinggi dari alfa(0.05) dapat diputuskan untuk tolak H0 
 
 **3.f Kesimpulan**
+
 karena tolak H0, maka dapat disimpulkan bahwa terdapat perbedaan rata-rata pada 2 perusahaan.
 
 
