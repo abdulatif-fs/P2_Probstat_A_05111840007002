@@ -84,5 +84,3 @@ sehingga kucing pada droup 2 memiliki panjang yang berbeda.
 **4.f Plot Data**
 
 ![Getting Started](P2/4f.PNG)
-=======
->>>>>>> 0c1c3deae865801b289d852a81206dd0a47b472b
