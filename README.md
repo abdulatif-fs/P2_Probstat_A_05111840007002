@@ -4,15 +4,15 @@
 
 **1.a. Standar Deviasi dari data selisih pasangan pengamatan**
 
-![Getting Started](P2/1.a.PNG)
+![Getting Started](P2/1a.PNG)
 
 **1.b. nilai t (p-value)**
 
-![Getting Started](P2/1.b.PNG)
+![Getting Started](P2/1b.PNG)
 
 **1.c.**
 
-![Getting Started](P2/1.c.PNG)
+![Getting Started](P2/1c.PNG)
 
 H0 : “tidak ada pengaruh yang signifikan secara statistika dalam hal kadar saturasi oksigen, sebelum dan sesudah melakukan aktivitas 𝐴”
 
@@ -38,6 +38,7 @@ dari hasil output tersebut, didapatkan nilai Z = 60.256 dan nilai p-value kurang
 H0 : "rata-rata jarak tempuh mobil <= 20000 kilometer.
 
 dengan nilai p-value dibawah 0.05, dapat diambil keputusan untuk menolak H0. dan dapat disimpulkan bahwa klaim yang ada dapat dibenarkan. yaitu rata-rata jarak tempuh mobil lebih dari 20000 kilometer.
+<<<<<<< HEAD
 
 ## 3.
 
@@ -83,3 +84,5 @@ sehingga kucing pada droup 2 memiliki panjang yang berbeda.
 **4.f Plot Data**
 
 ![Getting Started](P2/4f.PNG)
+=======
+>>>>>>> 0c1c3deae865801b289d852a81206dd0a47b472b
