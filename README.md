@@ -84,3 +84,29 @@ sehingga kucing pada droup 2 memiliki panjang yang berbeda.
 **4.f Plot Data**
 
 ![Getting Started](P2/4f.PNG)
+
+
+## 5
+**5.a Plot sederhana**
+
+![Getting Started](P2/5a.PNG)
+
+![Getting Started](P2/5b1.PNG)
+
+![Getting Started](P2/5a2.PNG)
+
+**5.b Uji ANOVA dua arah**
+
+![Getting Started](P2/5b.PNG)
+
+**5.c tabel dengan mean dan standar deviasi keluaran cahaya untuk setiap perlakuan**
+
+![Getting Started](P2/5c.PNG)
+
+**5.d Uji Tukey**
+
+![Getting Started](P2/5d.PNG)
+
+**5.d compact letter display**
+
+![Getting Started](P2/5e.PNG)
