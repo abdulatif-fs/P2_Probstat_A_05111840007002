@@ -38,3 +38,48 @@ dari hasil output tersebut, didapatkan nilai Z = 60.256 dan nilai p-value kurang
 H0 : "rata-rata jarak tempuh mobil <= 20000 kilometer.
 
 dengan nilai p-value dibawah 0.05, dapat diambil keputusan untuk menolak H0. dan dapat disimpulkan bahwa klaim yang ada dapat dibenarkan. yaitu rata-rata jarak tempuh mobil lebih dari 20000 kilometer.
+
+## 3.
+
+
+## 4.
+**4.a**
+
+**Membagi menjadi 3 grup dan melihat kuantil normal**
+
+![Getting Started](P2/4a_grup1.PNG)
+
+![Getting Started](P2/4a_grup2.PNG)
+
+![Getting Started](P2/4a_grup3.PNG)
+
+**Melihat Outlier Homogenitas**
+
+![Getting Started](P2/4a_outlayer.PNG)
+
+dari plot diatas dapat dilihat bahwa tidak ada outlier dalam homogenitas varians
+
+**4.b. Homogeneity of variances, nilai p, hipotesis dan kesimpulan yang dapat diambil**
+
+![Getting Started](P2/4b.PNG)
+
+didapatkan nilai p-value sebesar 0.8054, dengan begitu dapat diambil keputusan untuk gagal tolak H0. dan dapat diambil kesimpulam bahwa tidak ada perbedaan panjang antara ketiga spesies, atau rata-rata panjangnya sama.
+
+**4.c. Uji ANOVA**
+
+![Getting Started](P2/4c.PNG)
+
+**4.d nilai-p, simpulan**
+
+dari gambar pada 4.c, dapat dilihat bahwa p-value = 0,64. dan dapat di simpulkan bahwa H0 gagal tolak, itu berarti tidak ada perbedaan panjang antara ketiga spesies.
+
+**4.e  Post-hoc test Tukey HSD**
+
+![Getting Started](P2/4e.PNG)
+
+dari hasil  Post-hoc test Tukey HSD, perbandingan dari kucing mendapatkan hasil yang berbeda. nilai p dari penbandingan group 2:1 dan 3:2, terdapat perbedaan yang signifikan karena nilai p < 0.05 yang berarti tolak H0. namun pada group 3:1 tidak terdapat perbedaan yang signifikan, karena nilai p dari perbandingan tersebut lebih dari 0.05.
+sehingga kucing pada droup 2 memiliki panjang yang berbeda.
+
+**4.f Plot Data**
+
+![Getting Started](P2/4f.PNG)
